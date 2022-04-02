@@ -80,3 +80,7 @@ table.floatright {
     position: absolute;
     width: 119px;
 }
+/* font size of reference section */
+.weight {
+    font-weight: 100;
+}
